@@ -21,5 +21,5 @@
     12. console.log('6');
     13. console.log('back in angular component, with express server response');
     14. console.log('7');
-    15. <p>I will be displayed after component variable 'quotes' is defined</p>
-    16. <p>8</p>
+    15. `<p>I will be displayed after component variable 'quotes' is defined</p>`
+    16. `<p>8</p>`
